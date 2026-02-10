@@ -5,7 +5,7 @@ This repository contains the completed database capstone deliverables for the Li
 ## Structure
 
 - `modules/module_1/` — ER modeling and DB implementation task.
-- `modules/module_2/` — virtual table, JOIN, and subquery task.
+- `modules/module_2/` — SQL query, optimization, and booking workflow tasks.
 
 ## Module 1 Artifacts
 
@@ -20,6 +20,7 @@ This repository contains the completed database capstone deliverables for the Li
 
 - `modules/module_2/exercise_1.md`
 - `modules/module_2/exercise_2.md`
+- `modules/module_2/exercise_3.md`
 - `modules/module_2/assets/exercise_1_image_1.png`
 - `modules/module_2/assets/exercise_1_image_2.png`
 - `modules/module_2/assets/exercise_1_image_3.png`
@@ -28,6 +29,10 @@ This repository contains the completed database capstone deliverables for the Li
 - `modules/module_2/assets/exercise_2_image_2.png`
 - `modules/module_2/assets/exercise_2_image_3.png`
 - `modules/module_2/assets/exercise_2_image_4.png`
+- `modules/module_2/assets/exercise_3_image_1.png`
+- `modules/module_2/assets/exercise_3_image_2.png`
+- `modules/module_2/assets/exercise_3_image_3.png`
+- `modules/module_2/assets/exercise_3_image_4.png`
 - `modules/module_2/sql/exercise_1_seed_data.sql`
 - `modules/module_2/sql/exercise_1_solution.sql`
 - `modules/module_2/sql/exercise_2_solution.sql`
