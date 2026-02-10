@@ -11,6 +11,7 @@ SQL querying exercises using views, joins, subqueries, stored procedures, prepar
 - `sql/exercise_1_seed_data.sql` - mock data seed script for exercise 1.
 - `sql/exercise_1_solution.sql` - solution queries for exercise 1.
 - `sql/exercise_2_solution.sql` - solution queries for exercise 2.
+- `sql/exercise_3_solution.sql` - solution queries for exercise 3.
 
 ## Execution Order
 
@@ -18,3 +19,4 @@ SQL querying exercises using views, joins, subqueries, stored procedures, prepar
 2. Run `sql/exercise_1_seed_data.sql`.
 3. Run `sql/exercise_1_solution.sql` (exercise 1).
 4. Run `sql/exercise_2_solution.sql` (exercise 2).
+5. Run `sql/exercise_3_solution.sql` (exercise 3).
