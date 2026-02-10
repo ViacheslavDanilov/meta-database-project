@@ -28,6 +28,7 @@ This repository contains the completed database capstone deliverables for the Li
 - `modules/module_2/sql/exercise_1_solution.sql`
 - `modules/module_2/sql/exercise_2_solution.sql`
 - `modules/module_2/sql/exercise_3_solution.sql`
+- `modules/module_2/sql/exercise_4_solution.sql`
 - `modules/module_2/deliverables/exercise_1_view_result.png`
 - `modules/module_2/deliverables/exercise_1_join_result.png`
 - `modules/module_2/deliverables/exercise_1_subquery_result.png`
@@ -38,6 +39,9 @@ This repository contains the completed database capstone deliverables for the Li
 - `modules/module_2/deliverables/exercise_3_check_booking_result.png`
 - `modules/module_2/deliverables/exercise_3_add_valid_booking_rollback_result.png`
 - `modules/module_2/deliverables/exercise_3_add_valid_booking_commit_result.png`
+- `modules/module_2/deliverables/exercise_4_add_booking_result.png`
+- `modules/module_2/deliverables/exercise_4_update_booking_result.png`
+- `modules/module_2/deliverables/exercise_4_cancel_booking_result.png`
 
 ## Quick Run Order (Module 2)
 
@@ -47,3 +51,4 @@ This repository contains the completed database capstone deliverables for the Li
 4. Execute `modules/module_2/sql/exercise_1_solution.sql`.
 5. Execute `modules/module_2/sql/exercise_2_solution.sql`.
 6. Execute `modules/module_2/sql/exercise_3_solution.sql`.
+7. Execute `modules/module_2/sql/exercise_4_solution.sql`.

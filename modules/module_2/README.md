@@ -7,11 +7,14 @@ SQL querying exercises using views, joins, subqueries, stored procedures, prepar
 - `exercise_1.md` - views, joins, and subquery exercise.
 - `exercise_2.md` - stored procedures and prepared statements exercise.
 - `exercise_3.md` - booking availability and transaction exercise.
+- `exercise_4.md` - add, update, and cancel booking procedures exercise.
 - `assets/` - reference screenshots for all exercises.
 - `sql/exercise_0_seed_data.sql` - mock data seed script (prerequisite for exercises).
 - `sql/exercise_1_solution.sql` - solution queries for exercise 1.
 - `sql/exercise_2_solution.sql` - solution queries for exercise 2.
 - `sql/exercise_3_solution.sql` - solution queries for exercise 3.
+- `sql/exercise_4_solution.sql` - solution queries for exercise 4.
+- `deliverables/` - result screenshots for exercises 1-4.
 
 ## Execution Order
 
@@ -20,3 +23,4 @@ SQL querying exercises using views, joins, subqueries, stored procedures, prepar
 3. Run `sql/exercise_1_solution.sql` (exercise 1).
 4. Run `sql/exercise_2_solution.sql` (exercise 2).
 5. Run `sql/exercise_3_solution.sql` (exercise 3).
+6. Run `sql/exercise_4_solution.sql` (exercise 4).
