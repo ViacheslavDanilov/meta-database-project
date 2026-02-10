@@ -28,12 +28,14 @@ This repository contains the completed database capstone deliverables for the Li
 - `modules/module_2/assets/exercise_2_image_2.png`
 - `modules/module_2/assets/exercise_2_image_3.png`
 - `modules/module_2/assets/exercise_2_image_4.png`
-- `modules/module_2/sql/seed_data.sql`
-- `modules/module_2/sql/solution.sql`
+- `modules/module_2/sql/exercise_1_seed_data.sql`
+- `modules/module_2/sql/exercise_1_solution.sql`
+- `modules/module_2/sql/exercise_2_solution.sql`
 
 ## Quick Run Order (Module 2)
 
 1. Open MySQL Workbench.
 2. Execute `modules/module_1/sql/LittleLemonDB.sql`.
-3. Execute `modules/module_2/sql/seed_data.sql`.
-4. Execute `modules/module_2/sql/solution.sql`.
+3. Execute `modules/module_2/sql/exercise_1_seed_data.sql`.
+4. Execute `modules/module_2/sql/exercise_1_solution.sql`.
+5. Execute `modules/module_2/sql/exercise_2_solution.sql`.
