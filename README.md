@@ -30,19 +30,19 @@ This repository contains the completed database capstone deliverables for the Li
 - `modules/module_2/sql/exercise_2_solution.sql`
 - `modules/module_2/sql/exercise_3_solution.sql`
 - `modules/module_2/sql/exercise_4_solution.sql`
-- `modules/module_2/deliverables/exercise_1_view_result.png`
-- `modules/module_2/deliverables/exercise_1_join_result.png`
-- `modules/module_2/deliverables/exercise_1_subquery_result.png`
-- `modules/module_2/deliverables/exercise_2_procedure_result.png`
-- `modules/module_2/deliverables/exercise_2_prepared_statement_result.png`
-- `modules/module_2/deliverables/exercise_2_procedure_delete_result.png`
-- `modules/module_2/deliverables/exercise_3_insert_result.png`
-- `modules/module_2/deliverables/exercise_3_check_booking_result.png`
-- `modules/module_2/deliverables/exercise_3_add_valid_booking_rollback_result.png`
-- `modules/module_2/deliverables/exercise_3_add_valid_booking_commit_result.png`
-- `modules/module_2/deliverables/exercise_4_add_booking_result.png`
-- `modules/module_2/deliverables/exercise_4_update_booking_result.png`
-- `modules/module_2/deliverables/exercise_4_cancel_booking_result.png`
+- `modules/module_2/deliverables/exercise_1_view.png`
+- `modules/module_2/deliverables/exercise_1_join.png`
+- `modules/module_2/deliverables/exercise_1_subquery.png`
+- `modules/module_2/deliverables/exercise_2_procedure.png`
+- `modules/module_2/deliverables/exercise_2_prepared_statement.png`
+- `modules/module_2/deliverables/exercise_2_procedure_delete.png`
+- `modules/module_2/deliverables/exercise_3_insert.png`
+- `modules/module_2/deliverables/exercise_3_check_booking.png`
+- `modules/module_2/deliverables/exercise_3_add_valid_booking_rollback.png`
+- `modules/module_2/deliverables/exercise_3_add_valid_booking_commit.png`
+- `modules/module_2/deliverables/exercise_4_add_booking.png`
+- `modules/module_2/deliverables/exercise_4_update_booking.png`
+- `modules/module_2/deliverables/exercise_4_cancel_booking.png`
 
 ## Quick Run Order (Module 2)
 
@@ -60,9 +60,9 @@ This repository contains the completed database capstone deliverables for the Li
 - `modules/module_3/exercise_2.md`
 - `modules/module_3/assets/orders.xlsx`
 - `modules/module_3/assets/orders.csv`
-- `modules/module_3/deliverables/exercise_1_data_prep_result.png`
-- `modules/module_3/deliverables/exercise_1_chart_result.png`
-- `modules/module_3/deliverables/exercise_1_dashboard_result.png`
+- `modules/module_3/deliverables/exercise_1_country_filtering.png`
+- `modules/module_3/deliverables/exercise_1_name_split.png`
+- `modules/module_3/deliverables/exercise_1_profit.png`
 
 ## Quick Run Order (Module 3)
 
