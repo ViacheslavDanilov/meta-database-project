@@ -58,6 +58,7 @@ This repository contains the completed database capstone deliverables for the Li
 
 - `modules/module_3/exercise_1.md`
 - `modules/module_3/exercise_2.md`
+- `modules/module_3/exercise_3.md`
 - `modules/module_3/assets/orders.xlsx`
 - `modules/module_3/deliverables/exercise_1_country_filtering.png`
 - `modules/module_3/deliverables/exercise_1_name_split.png`
@@ -69,6 +70,8 @@ This repository contains the completed database capstone deliverables for the Li
 - `modules/module_3/deliverables/exercise_2_dashboard_full.png`
 - `modules/module_3/deliverables/exercise_2_dashboard_filtered_customer.png`
 - `modules/module_3/deliverables/exercise_2_tableau_solution.twbx`
+- `modules/module_3/deliverables/exercise_3_client_setup.ipynb`
+- `.env.example`
 - `https://public.tableau.com/shared/CHTWXDQSD?:display_count=n&:origin=viz_share_link`
 
 ## Quick Run Order (Module 3)
@@ -76,3 +79,5 @@ This repository contains the completed database capstone deliverables for the Li
 1. Open Tableau.
 2. Complete `modules/module_3/exercise_1.md` with `modules/module_3/assets/orders.xlsx`.
 3. Complete `modules/module_3/exercise_2.md` using the prepared Tableau data source.
+4. Copy `.env.example` to `.env` and set DB credentials.
+5. Run `modules/module_3/deliverables/exercise_3_client_setup.ipynb` for Exercise 3 connection setup.
