@@ -18,11 +18,16 @@ This repository contains the completed database capstone deliverables for the Li
 
 ## Module 2 Artifacts
 
-- `modules/module_2/exercise.md`
-- `modules/module_2/assets/image_1.png`
-- `modules/module_2/assets/image_2.png`
-- `modules/module_2/assets/image_3.png`
-- `modules/module_2/assets/image_4.png`
+- `modules/module_2/exercise_1.md`
+- `modules/module_2/exercise_2.md`
+- `modules/module_2/assets/exercise_1_image_1.png`
+- `modules/module_2/assets/exercise_1_image_2.png`
+- `modules/module_2/assets/exercise_1_image_3.png`
+- `modules/module_2/assets/exercise_1_image_4.png`
+- `modules/module_2/assets/exercise_2_image_1.png`
+- `modules/module_2/assets/exercise_2_image_2.png`
+- `modules/module_2/assets/exercise_2_image_3.png`
+- `modules/module_2/assets/exercise_2_image_4.png`
 - `modules/module_2/sql/seed_data.sql`
 - `modules/module_2/sql/solution.sql`
 

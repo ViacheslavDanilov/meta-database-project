@@ -1,16 +1,17 @@
 # Module 2
 
-SQL reporting exercises using views, joins, and subqueries.
+SQL querying exercises using views, joins, subqueries, stored procedures, and prepared statements.
 
 ## Files
 
-- `exercise.md` - task brief.
-- `assets/` - reference screenshots from the exercise.
+- `exercise_1.md` - views, joins, and subquery exercise.
+- `exercise_2.md` - stored procedures and prepared statements exercise.
+- `assets/` - reference screenshots for both exercises.
 - `sql/seed_data.sql` - mock data seed script.
-- `sql/solution.sql` - solution queries for all module 2 tasks.
+- `sql/solution.sql` - solution queries for exercise 1.
 
 ## Execution Order
 
 1. Run `../module_1/sql/LittleLemonDB.sql`.
 2. Run `sql/seed_data.sql`.
-3. Run `sql/solution.sql`.
+3. Run `sql/solution.sql` (exercise 1).
