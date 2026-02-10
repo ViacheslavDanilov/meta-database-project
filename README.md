@@ -6,6 +6,7 @@ This repository contains the completed database capstone deliverables for the Li
 
 - `modules/module_1/` — ER modeling and DB implementation task.
 - `modules/module_2/` — SQL query, optimization, and booking workflow tasks.
+- `modules/module_3/` — Tableau data prep and dashboard tasks.
 
 ## Module 1 Deliverables
 
@@ -52,3 +53,19 @@ This repository contains the completed database capstone deliverables for the Li
 5. Execute `modules/module_2/sql/exercise_2_solution.sql`.
 6. Execute `modules/module_2/sql/exercise_3_solution.sql`.
 7. Execute `modules/module_2/sql/exercise_4_solution.sql`.
+
+## Module 3 Deliverables
+
+- `modules/module_3/exercise_1.md`
+- `modules/module_3/exercise_2.md`
+- `modules/module_3/assets/orders.xlsx`
+- `modules/module_3/assets/orders.csv`
+- `modules/module_3/deliverables/exercise_1_data_prep_result.png`
+- `modules/module_3/deliverables/exercise_1_chart_result.png`
+- `modules/module_3/deliverables/exercise_1_dashboard_result.png`
+
+## Quick Run Order (Module 3)
+
+1. Open Tableau.
+2. Complete `modules/module_3/exercise_1.md` with `modules/module_3/assets/orders.xlsx` (or `modules/module_3/assets/orders.csv`).
+3. Complete `modules/module_3/exercise_2.md` using the prepared Tableau data source.
