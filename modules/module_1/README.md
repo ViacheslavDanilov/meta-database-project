@@ -10,3 +10,8 @@ ER diagram modeling and MySQL implementation for Little Lemon.
 - `deliverables/LittleLemonDM-ERD-guide.md` - relationship notes.
 - `sql/LittleLemonDB.sql` - schema creation script.
 - `sql/show_databases.sql` - verification query.
+
+## Execution Order
+
+1. Run `sql/LittleLemonDB.sql`.
+2. Run `sql/show_databases.sql`.

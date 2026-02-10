@@ -1,67 +1,56 @@
-Exercise: Create an ER diagram data model and implement it in MySQL
-Scenario 
-Little Lemon needs to build a robust relational database system in MySQL in which they can store large amounts of data. They then need to easily manage and find this data as required. This database system should maintain information about the following aspects of the business:  
+# Exercise: Create an ER Diagram Data Model and Implement It in MySQL
 
-Bookings.
+## Scenario
+Little Lemon needs a robust relational database system in MySQL to store and manage business data. The database should maintain information about:
 
-Orders.
+- Bookings
+- Orders
+- Order delivery status
+- Menu
+- Customer details
+- Staff information
 
-Order delivery status.
+## Prerequisites
+Use MySQL Workbench to create the ER diagram and implement it in your MySQL server.
 
-Menu.
+## Task Instructions
+Use MySQL Workbench to develop and implement the Little Lemon relational database. Save the project files in a folder named `db-capstone-project`.
 
-Customer details.
+### Task 1
+Create a normalized ER diagram (1NF, 2NF, and 3NF) with relevant relationships that satisfy Little Lemon requirements.
 
-and Staff information.
+Include these entities:
 
+- `Bookings`: booking ID, date, and table number.
+- `Orders`: order date, quantity, and total cost.
+- `Order delivery status`: delivery date and status.
+- `Menu`: cuisines, starters, courses, drinks, and desserts.
+- `Customer details`: names and contact details.
+- `Staff information`: role and salary.
 
-Prerequisites 
-Use MySQL Workbench to create the ER diagram and to implement it in your MySQL server.
+Guidance:
 
+- Identify entities and attributes.
+- Identify primary and foreign keys.
+- Define data types and constraints.
 
-Task Instructions 
-Little Lemon wants you to use MySQL Workbench to develop a relational database system and implement it in MySQL server. Save your database capstone project files in a folder on your machine and name it db-capstone-project.
+After modeling in MySQL Workbench Model Editor, save the data model as `LittleLemonDM` and export a PNG of the ER diagram.
 
+### Task 2
+Implement the Little Lemon data model in your MySQL server.
 
-Task 1
-In this task, you need to create a normalized ER diagram (that adheres to 1NF, 2NF and 3NF) with relevant relationships to meet the data requirements of Little Lemon. When creating your diagram, include the following tables:
+Guidance:
 
-Bookings: To store information about booked tables in the restaurant including booking id, date and table number.
+- Use MySQL Workbench forward engineering.
+- Name the database `LittleLemonDB`.
+- Export `LittleLemonDB` as a single SQL file in `db-capstone-project`.
 
-Orders: To store information about each order such as order date, quantity and total cost.
+### Task 3
+List all databases in MySQL and confirm `LittleLemonDB` appears in the result.
 
-Order delivery status: To store information about the delivery status of each order such as delivery date and status.
+Guidance:
 
-Menu: To store information about cuisines, starters, courses, drinks and desserts.
+- Write SQL in MySQL Workbench SQL Editor using `SHOW DATABASES;`.
 
-Customer details: To store information about the customer names and contact details.
-
-Staff information: Including role and salary.
-
-Here is some guidance for completing this task:
-
-Identify entities and related attributes. 
-
-Identify primary and foreign keys.
-
-Define data types and constraints. 
-
-Once you have designed your ER diagram inside your MySQL Workbench Model Editor you then need to save your data model as LittleLemonDM and export it as a PNG file.
-
-
-Task 2
-In this second task, you need to implement the Little Lemon data model inside your MySQL server. Here is some guidance for completing this task:
-
-Use the forward engineer method in MySQL Workbench to implement the Little Lemon data model inside MySQL server. 
-
-Name your database LittleLemonDB. 
-
-Export the LittleLemonDB as a single contained SQL file and save it in the db-capstone-project folder.
-
-
-Task 3
-In the third and final task, you need to show the databases in the MySQL server. Write a SQL code inside MySQL Workbench SQL editor to show all your databases in MySQL server. Check if the Little Lemon database is included in the list.
-
-
-Conclusion
-In this exercise, you created a data model for Little Lemon, implemented it in MySQL and listed all databases in MySQL server.
+## Conclusion
+In this exercise, you created a Little Lemon ER data model, implemented it in MySQL, and verified the database in the server list.
