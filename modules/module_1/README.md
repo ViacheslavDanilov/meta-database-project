@@ -4,7 +4,7 @@ ER diagram modeling and MySQL implementation for Little Lemon.
 
 ## Files
 
-- `exercise.md` - task brief.
+- `exercise.md` - ER modeling and MySQL implementation exercise.
 - `deliverables/LittleLemonDM.mwb` - MySQL Workbench model.
 - `deliverables/LittleLemonDM.png` - exported ER diagram.
 - `deliverables/LittleLemonDM-ERD-guide.md` - relationship notes.
