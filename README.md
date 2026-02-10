@@ -1,27 +1,34 @@
-# Meta Database Capstone Project (Little Lemon)
+# Meta Database Capstone Project
 
 This repository contains the completed database capstone deliverables for the Little Lemon scenario.
 
-## Project Artifacts
+## Structure
 
-- `LittleLemonDB.sql` — MySQL schema for `LittleLemonDB`.
-- `show_databases.sql` — SQL command for listing databases.
-- `LittleLemonDM.mwb` — MySQL Workbench data model.
-- `LittleLemonDM.png` — exported ER diagram image.
-- `LittleLemonDM-ERD-guide.md` — relationship and normalization notes.
-- `task.md` — assignment brief.
+- `modules/module_1/` — ER modeling and DB implementation task.
+- `modules/module_2/` — virtual table, JOIN, and subquery task.
 
-## Submission Checklist
+## Module 1 Artifacts
 
-- [x] Task 1: Create normalized ER model (1NF, 2NF, 3NF).
-- [x] Task 1: Save model as `LittleLemonDM.mwb`.
-- [x] Task 1: Export ER diagram as `LittleLemonDM.png`.
-- [x] Task 2: Implement schema in MySQL as `LittleLemonDB`.
-- [x] Task 3: Run `SHOW DATABASES;` and verify `LittleLemonDB`.
+- `modules/module_1/exercise.md`
+- `modules/module_1/deliverables/LittleLemonDM.mwb`
+- `modules/module_1/deliverables/LittleLemonDM.png`
+- `modules/module_1/deliverables/LittleLemonDM-ERD-guide.md`
+- `modules/module_1/sql/LittleLemonDB.sql`
+- `modules/module_1/sql/show_databases.sql`
 
-## Quick Verification
+## Module 2 Artifacts
+
+- `modules/module_2/exercise.md`
+- `modules/module_2/assets/image_1.png`
+- `modules/module_2/assets/image_2.png`
+- `modules/module_2/assets/image_3.png`
+- `modules/module_2/assets/image_4.png`
+- `modules/module_2/sql/seed_data.sql`
+- `modules/module_2/sql/solution.sql`
+
+## Quick Run Order (Module 2)
 
 1. Open MySQL Workbench.
-2. Execute `LittleLemonDB.sql`.
-3. Execute `show_databases.sql`.
-4. Confirm `LittleLemonDB` appears in the output.
+2. Execute `modules/module_1/sql/LittleLemonDB.sql`.
+3. Execute `modules/module_2/sql/seed_data.sql`.
+4. Execute `modules/module_2/sql/solution.sql`.
