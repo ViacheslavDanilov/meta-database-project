@@ -7,6 +7,7 @@ Tableau data preparation and interactive dashboard exercises.
 - `exercise_1.md` - Tableau workspace setup and data preparation exercise.
 - `exercise_2.md` - interactive dashboard creation exercise.
 - `exercise_3.md` - Python/Jupyter client setup and database connection exercise.
+- `exercise_4.md` - Python query functions exercise.
 - `assets/` - source data and reference screenshots.
 - `deliverables/` - result screenshots and packaged Tableau workbook.
 
@@ -23,6 +24,7 @@ Tableau data preparation and interactive dashboard exercises.
 - `deliverables/exercise_2_dashboard_filtered_customer.png`
 - `deliverables/exercise_2_tableau_solution.twbx`
 - `deliverables/exercise_3_client_setup.ipynb`
+- `deliverables/exercise_4_query_functions.ipynb`
 - `../../.env.example`
 
 ## Tableau Public
@@ -36,3 +38,4 @@ Tableau data preparation and interactive dashboard exercises.
 3. Complete `exercise_2.md` using the prepared Tableau data source from exercise 1.
 4. Copy `../../.env.example` to `.env` at repo root and fill DB credentials.
 5. Complete `exercise_3.md` using `deliverables/exercise_3_client_setup.ipynb`.
+6. Complete `exercise_4.md` using `deliverables/exercise_4_query_functions.ipynb`.
