@@ -82,3 +82,7 @@ Expected output format:
 
 ## Conclusion
 In this exercise, you helped Little Lemon analyze sales performance and customer trends through interactive Tableau visualizations.
+
+## Reference Solution
+- Tableau Public: `https://public.tableau.com/shared/CHTWXDQSD?:display_count=n&:origin=viz_share_link`
+- Packaged workbook: `deliverables/exercise_2_tableau_solution.twbx`

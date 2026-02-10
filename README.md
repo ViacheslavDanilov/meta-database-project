@@ -59,13 +59,20 @@ This repository contains the completed database capstone deliverables for the Li
 - `modules/module_3/exercise_1.md`
 - `modules/module_3/exercise_2.md`
 - `modules/module_3/assets/orders.xlsx`
-- `modules/module_3/assets/orders.csv`
 - `modules/module_3/deliverables/exercise_1_country_filtering.png`
 - `modules/module_3/deliverables/exercise_1_name_split.png`
 - `modules/module_3/deliverables/exercise_1_profit.png`
+- `modules/module_3/deliverables/exercise_2_customers_sales.png`
+- `modules/module_3/deliverables/exercise_2_profit_chart.png`
+- `modules/module_3/deliverables/exercise_2_sales_bubble_chart.png`
+- `modules/module_3/deliverables/exercise_2_cuisine_sales_and_profits.png`
+- `modules/module_3/deliverables/exercise_2_dashboard_full.png`
+- `modules/module_3/deliverables/exercise_2_dashboard_filtered_customer.png`
+- `modules/module_3/deliverables/exercise_2_tableau_solution.twbx`
+- `https://public.tableau.com/shared/CHTWXDQSD?:display_count=n&:origin=viz_share_link`
 
 ## Quick Run Order (Module 3)
 
 1. Open Tableau.
-2. Complete `modules/module_3/exercise_1.md` with `modules/module_3/assets/orders.xlsx` (or `modules/module_3/assets/orders.csv`).
+2. Complete `modules/module_3/exercise_1.md` with `modules/module_3/assets/orders.xlsx`.
 3. Complete `modules/module_3/exercise_2.md` using the prepared Tableau data source.
