@@ -1,6 +1,6 @@
 # Module 3
 
-Tableau data preparation and interactive dashboard exercises.
+Tableau analytics plus Python client/query exercises.
 
 ## Files
 
@@ -25,7 +25,6 @@ Tableau data preparation and interactive dashboard exercises.
 - `deliverables/exercise_2_tableau_solution.twbx`
 - `deliverables/exercise_3_client_setup.ipynb`
 - `deliverables/exercise_4_query_functions.ipynb`
-- `../../.env.example`
 
 ## Tableau Public
 
@@ -37,5 +36,5 @@ Tableau data preparation and interactive dashboard exercises.
 2. Complete `exercise_1.md` using `assets/orders.xlsx`.
 3. Complete `exercise_2.md` using the prepared Tableau data source from exercise 1.
 4. Copy `../../.env.example` to `.env` at repo root and fill DB credentials.
-5. Complete `exercise_3.md` using `deliverables/exercise_3_client_setup.ipynb`.
-6. Complete `exercise_4.md` using `deliverables/exercise_4_query_functions.ipynb`.
+5. Complete `exercise_3.md` using `deliverables/exercise_3_client_setup.ipynb` (Python/Jupyter).
+6. Complete `exercise_4.md` using `deliverables/exercise_4_query_functions.ipynb` (Python/Jupyter).

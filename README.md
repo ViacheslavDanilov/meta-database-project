@@ -6,7 +6,7 @@ This repository contains the completed database capstone deliverables for the Li
 
 - `modules/module_1/` — ER modeling and DB implementation task.
 - `modules/module_2/` — SQL query, optimization, and booking workflow tasks.
-- `modules/module_3/` — Tableau data prep and dashboard tasks.
+- `modules/module_3/` — Tableau analytics and Python client/query tasks.
 
 ## Module 1 Deliverables
 
@@ -82,5 +82,5 @@ This repository contains the completed database capstone deliverables for the Li
 2. Complete `modules/module_3/exercise_1.md` with `modules/module_3/assets/orders.xlsx`.
 3. Complete `modules/module_3/exercise_2.md` using the prepared Tableau data source.
 4. Copy `.env.example` to `.env` and set DB credentials.
-5. Run `modules/module_3/deliverables/exercise_3_client_setup.ipynb` for Exercise 3 connection setup.
-6. Run `modules/module_3/deliverables/exercise_4_query_functions.ipynb` for query functions.
+5. Run `modules/module_3/deliverables/exercise_3_client_setup.ipynb` for Exercise 3 connection setup (Python/Jupyter).
+6. Run `modules/module_3/deliverables/exercise_4_query_functions.ipynb` for query functions (Python/Jupyter).
